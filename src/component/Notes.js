@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import "./notes.css"
@@ -49,6 +50,23 @@ function Notes(){
     }
 </div>
 </div>
+=======
+import notesStore from "./stores/notesStore";
+import Note from "./Note";
+
+function Notes(){
+    const store = notesStore()
+   return(
+      <div>
+      <h2>Notes:</h2>
+      {store.notes &&
+        store.notes.map((note) => {
+          return (
+       <Note note={note} key={note}/>
+        );
+      })}
+    </div>
+>>>>>>> e369d7f (first commit)
 )}
 
 export default Notes;

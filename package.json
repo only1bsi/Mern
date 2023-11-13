@@ -7,6 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "axios": "^1.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -17,11 +18,20 @@
     "web-vitals": "^2.1.4",
     "zustand": "^4.3.8"
 =======
+=======
+    "axios": "^1.4.0",
+>>>>>>> e369d7f (first commit)
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
     "web-vitals": "^2.1.4"
 >>>>>>> 632c6c2 (Initialize project using Create React App)
+=======
+    "web-vitals": "^2.1.4",
+    "zustand": "^4.3.8"
+>>>>>>> e369d7f (first commit)
   },
   "scripts": {
     "start": "react-scripts start",
