@@ -1,0 +1,58 @@
+/* .app_settings {
+    margin: 20px;
+  }
+  
+  .notes {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .note-row {
+    display: table-row;
+  }
+  
+  .note-row div {
+    display: table-cell;
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h4 {
+    margin: 0;
+  } */
+
+  /* notes.css */
+  .app_settingd {
+    margin: 20px;
+  }
+  
+  .notes {
+    display: table;
+    width: 100%;
+    background-color: aliceblue;
+  }
+  
+  .note-row {
+    display: table-row;
+  }
+  
+  .note-row div {
+    display: table-cell;
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h4 {
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+  }
