@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6138420 (front end update)
 :root {
     --yellow: #ffca40;
     --dark: black;
@@ -22,6 +25,7 @@
     min-height: 100vh;
     background-color: var(--light);
   }
+<<<<<<< HEAD
   
 =======
 .App {
@@ -63,3 +67,6 @@
   }
 }
 >>>>>>> 632c6c2 (Initialize project using Create React App)
+=======
+  
+>>>>>>> 6138420 (front end update)

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6138420 (front end update)
 
 import React from "react";
 import Sidebar from "./component/sidebar/Sidebar";
@@ -34,6 +37,7 @@ function App() {
 }
  
 
+<<<<<<< HEAD
 export default App;
 =======
 import logo from './logo.svg';
@@ -62,3 +66,6 @@ function App() {
 
 export default App;
 >>>>>>> 632c6c2 (Initialize project using Create React App)
+=======
+export default App;
+>>>>>>> 6138420 (front end update)

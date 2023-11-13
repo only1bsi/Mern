@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import App from './App';
 import axios from 'axios';
 
@@ -14,7 +15,11 @@ import reportWebVitals from './reportWebVitals';
 >>>>>>> 632c6c2 (Initialize project using Create React App)
 =======
 import App from './component/App';
+=======
+import App from './App';
+>>>>>>> 6138420 (front end update)
 import axios from 'axios';
+
  
 axios.defaults.baseURL = "http://localhost:5000"
 >>>>>>> e369d7f (first commit)
